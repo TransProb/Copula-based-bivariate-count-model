@@ -1,0 +1,2 @@
+This is the code for the copula-based bivariate count model. The marginal distribution can be one of the four {Poisson, Zero-inflated Poisson, NB, Zero-inflated NB). The copula function includes {independent, Frank, Joe, Gumbel, Clayton, Guassian, FGM}. Another feature of this code is the explanatory variables can be included in copula-function in addtion to the count model part.
+More explanation and examples will be updated later when I am not lazy :)
